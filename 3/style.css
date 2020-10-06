@@ -1,0 +1,30 @@
+main, header, section, aside, footer{
+	margin: 0;
+	padding: 35px;
+}
+
+main{
+	background: #ffffff;
+}
+
+.header {
+	background: rgb(22, 22, 22);
+}
+
+.hero {
+	
+	background:white ;
+}
+
+.content {
+	background: white;
+}
+
+
+.footer{
+	background: blanchedalmond;
+}
+.img-fluid {
+	max-width: 100%;
+	height: auto;
+}	
