@@ -3,10 +3,11 @@ main, header, section, aside, footer{
 	padding: 35px;
 }
 body {
-    background-image: url('stay.jpeg');
+    background-image: url('covid-19.jpeg');
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: cover;
+	background-size: cover;
+	background-color: powderblue;
   }
 
 main{
@@ -15,11 +16,6 @@ main{
 
 .header {
 	background: rgb(22, 22, 22);
-}
-
-.hero {
-	
-	background:white ;
 }
 
 .content {
@@ -34,3 +30,6 @@ main{
 	max-width: 100%;
 	height: auto;
 }	
+h1{
+	font-family: 'Krona One', sans-serif;
+}
